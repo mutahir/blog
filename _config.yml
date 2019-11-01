@@ -1,3 +1,11 @@
+# Site settings
+title: tech-log
+email: your_email@example.com
+author: John Otander
+description: "tech-log"
+baseurl: "/blog"
+url: "http://mutahir.github.io"
+
 # Welcome to Jekyll!
 #
 # This config file is meant for settings that affect your whole blog, values
